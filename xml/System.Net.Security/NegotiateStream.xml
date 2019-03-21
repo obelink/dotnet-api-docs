@@ -56,12 +56,13 @@
   
  [!code-cpp[NclNegoAsyncClient#0](~/samples/snippets/cpp/VS_Snippets_Remoting/NclNegoasyncClient/CPP/NclNegoasyncClient.cpp#0)]
  [!code-csharp[NclNegoAsyncClient#0](~/samples/snippets/csharp/VS_Snippets_Remoting/NclNegoasyncClient/CS/client.cs#0)]  
-  
+ [!code-vb[NclNegoAsyncClient#0](~/samples/snippets/visualbasic/VS_Snippets_Remoting/NclNegoasyncClient/VB/client.vb#0)] 
+
  The following code example demonstrates the server side of a client-server connection that uses the <xref:System.Net.Security.NegotiateStream> to authenticate the client and read a message sent by the client.  
   
  [!code-cpp[NclNegoAsyncServer#0](~/samples/snippets/cpp/VS_Snippets_Remoting/NclNegoAsyncServer/CPP/NclNegoAsyncServer.cpp#0)]
  [!code-csharp[NclNegoAsyncServer#0](~/samples/snippets/csharp/VS_Snippets_Remoting/NclNegoAsyncServer/CS/server.cs#0)]  
-  
+ 
  ]]></format>
     </remarks>
     <related type="Article" href="https://msdn.microsoft.com/library/8bf0b428-5a21-4299-8d6e-bf8251fd978a">Changes to NTLM authentication for HTTPWebRequest in Version 3.5 SP1</related>
@@ -130,7 +131,8 @@
   
  [!code-cpp[NclNegoSyncClient#3](~/samples/snippets/cpp/VS_Snippets_Remoting/NclNegoSyncClient/CPP/NclNegoSyncClient.cpp#3)]
  [!code-csharp[NclNegoSyncClient#3](~/samples/snippets/csharp/VS_Snippets_Remoting/NclNegoSyncClient/CS/client.cs#3)]  
-  
+ [!code-vb[NclNegoAsyncClient#3](~/samples/snippets/visualbasic/VS_Snippets_Remoting/NclNegoasyncClient/VB/client.vb#3)] 
+
  ]]></format>
         </remarks>
       </Docs>
@@ -186,7 +188,8 @@
   
  [!code-cpp[NclNegoAsyncClient#1](~/samples/snippets/cpp/VS_Snippets_Remoting/NclNegoasyncClient/CPP/NclNegoasyncClient.cpp#1)]
  [!code-csharp[NclNegoAsyncClient#1](~/samples/snippets/csharp/VS_Snippets_Remoting/NclNegoasyncClient/CS/client.cs#1)]  
-  
+ [!code-vb[NclNegoAsyncClient#1](~/samples/snippets/visualbasic/VS_Snippets_Remoting/NclNegoasyncClient/VB/client.vb#1)] 
+
  ]]></format>
         </remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -1485,7 +1488,8 @@
   
  [!code-cpp[NclNegoAsyncClient#2](~/samples/snippets/cpp/VS_Snippets_Remoting/NclNegoasyncClient/CPP/NclNegoasyncClient.cpp#2)]
  [!code-csharp[NclNegoAsyncClient#2](~/samples/snippets/csharp/VS_Snippets_Remoting/NclNegoasyncClient/CS/client.cs#2)]  
-  
+ [!code-vb[NclNegoAsyncClient#2](~/samples/snippets/visualbasic/VS_Snippets_Remoting/NclNegoasyncClient/VB/client.vb#2)] 
+
  ]]></format>
         </remarks>
         <exception cref="T:System.Security.Authentication.AuthenticationException">The authentication failed. You can use this object to retry the authentication.</exception>
@@ -2276,12 +2280,14 @@
   
  [!code-cpp[NclNegoAsyncClient#3](~/samples/snippets/cpp/VS_Snippets_Remoting/NclNegoasyncClient/CPP/NclNegoasyncClient.cpp#3)]
  [!code-csharp[NclNegoAsyncClient#3](~/samples/snippets/csharp/VS_Snippets_Remoting/NclNegoasyncClient/CS/client.cs#3)]  
-  
+ [!code-vb[NclNegoAsyncClient#3](~/samples/snippets/visualbasic/VS_Snippets_Remoting/NclNegoasyncClient/VB/client.vb#3)] 
+
  The following method is called when the operation completes.  
   
  [!code-cpp[NclNegoAsyncClient#4](~/samples/snippets/cpp/VS_Snippets_Remoting/NclNegoasyncClient/CPP/NclNegoasyncClient.cpp#4)]
  [!code-csharp[NclNegoAsyncClient#4](~/samples/snippets/csharp/VS_Snippets_Remoting/NclNegoasyncClient/CS/client.cs#4)]  
-  
+ [!code-vb[NclNegoAsyncClient#4](~/samples/snippets/visualbasic/VS_Snippets_Remoting/NclNegoasyncClient/VB/client.vb#4)] 
+
  ]]></format>
         </remarks>
         <exception cref="T:System.ArgumentNullException">
@@ -2833,7 +2839,8 @@ Authentication has not occurred.</exception>
   
  [!code-cpp[NclNegoAsyncClient#4](~/samples/snippets/cpp/VS_Snippets_Remoting/NclNegoasyncClient/CPP/NclNegoasyncClient.cpp#4)]
  [!code-csharp[NclNegoAsyncClient#4](~/samples/snippets/csharp/VS_Snippets_Remoting/NclNegoasyncClient/CS/client.cs#4)]  
-  
+ [!code-vb[NclNegoAsyncClient#4](~/samples/snippets/visualbasic/VS_Snippets_Remoting/NclNegoasyncClient/VB/client.vb#4)] 
+
  ]]></format>
         </remarks>
         <exception cref="T:System.ArgumentNullException">
